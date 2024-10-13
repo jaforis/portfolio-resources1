@@ -124,3 +124,16 @@ main section{
 .resume{
     text-align: center;
 }
+footer{
+    margin-left: 250px;
+
+    display: flex;
+    justify-content: space-between;
+    height: 300px;
+    width: 1000px;
+    background-color: bisque;
+    padding: 100px;
+}
+.last{
+    margin-top: 20px;
+}
